@@ -2,7 +2,7 @@ import pandas as pd
 
 def tratamento_dados():
     #Carga dos dados
-    df = pd.read_csv('Enlurb2024\\156_2024.csv', sep=';', encoding='latin-1')
+    df = pd.read_csv('156_2024.csv', sep=';', encoding='latin-1')
 
     #Retirando colunas desnecessarias
     df = df.drop(columns=["GRUPOSERVICO_CODIGO", "SERVICO_CODIGO","LOGRADOURO","NUMERO", "latitude", "longitude"])
