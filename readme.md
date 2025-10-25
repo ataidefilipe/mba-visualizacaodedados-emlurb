@@ -20,3 +20,9 @@ Tempo de atendimento médio
 Quantidade de chamado por Grupo e por Serviço (top 10) - ranking
 MOMENTO OUSADIA - Mapa de recife com bairros com mais chamado - escala de cor
 % Atendido por mês
+
+#Equipe
+Elaine Cristina Arruda
+Rebeka Lemos
+Filipe Ataide
+Nickolas Gomes
